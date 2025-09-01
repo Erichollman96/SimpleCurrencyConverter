@@ -8,7 +8,7 @@ A simple and user-friendly Python desktop application to convert currencies in r
 - Fetches live exchange rates from a free API.
 - Swap currencies with a single click.
 - Displays the exchange rate and the last updated timestamp.
-- Simple, clean, and responsive Tkinter-based interface.
+- Simple, clean, and responsive interface.
 
 ## Screenshots
 
